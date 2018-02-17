@@ -14,4 +14,4 @@ Simple Rainmeter Skin that shows the current time, your ingame FPS and GPU Usage
 
 **Todo:**
 - [ ] Add a settings menu to make it possible to customize the skin
-- [X] Add CPU & RAM UsageSS
+- [X] Add CPU & RAM Usage
