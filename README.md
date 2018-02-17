@@ -3,7 +3,7 @@ Simple Rainmeter Skin that shows the current time, your ingame FPS and GPU Usage
 
 ### Preview:
 
-![Preview](https://dl.sapphyrus.xyz/n6bio78z.gif/)
+![Preview](https://img.tranos.de/images/2018/02/17/2018-02-17_12-20-36.gif)
 
 ***
 
@@ -14,4 +14,4 @@ Simple Rainmeter Skin that shows the current time, your ingame FPS and GPU Usage
 
 **Todo:**
 - [ ] Add a settings menu to make it possible to customize the skin
-- [ ] Add CPU & RAM Usage
+- [X] Add CPU & RAM Usage
